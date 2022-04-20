@@ -12,6 +12,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kak4k0ur1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kak4k0ur1&layout=compact&langs_count=16&theme=dark"/>
 </div>
+<div align="center"><br>
+  <img align="center" alt="kaka-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/java.svg">
+  <img align="center" alt="kaka-Windows" height="30" width="40" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/windows.svg">
+  <img align="center" alt="kaka-bat" height="30" width="40" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/terminal.svg">
+  <img align="center" alt="kaka-Android" height="30" width="40" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/android.svg">
+  <img align="center" alt="kaka-Angular" height="30" width="40" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/angular_simple.svg" />
+  <img align="center" alt="kaka-CSS" height="30" width="40" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/css3.svg" />
+</div>
 
 
 ##
