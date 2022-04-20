@@ -25,7 +25,7 @@
 ##
 <div align="center">
 <a href="https://www.instagram.com/kalil.jar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:kjfakhouri@gmail.com"><img src="https://img.shields.io/badge/-kjfakhouri@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kjfakhouri@gmail.com" target="_blank"></a>
+<a href = "mailto:kjfakhouri@gmail.com"><img src="https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kjfakhouri@gmail.com" target="_blank"></a>
 <a href="https://www.linkedin.com/in/kalil-j-fakhouri-1744b321a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
