@@ -29,7 +29,7 @@
 <a href="https://www.linkedin.com/in/kalil-j-fakhouri-1744b321a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
-  ![Snake animation](https://github.com/elton-souza/elton-souza/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/kak4k0ur1/kak4k0ur1/blob/output/github-contribution-grid-snake.svg)
  
 </div>
               
