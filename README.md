@@ -27,11 +27,7 @@
 <a href="https://www.instagram.com/kalil.jar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:kjfakhouri@gmail.com"><img src="https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kjfakhouri@gmail.com" target="_blank"></a>
 <a href="https://www.linkedin.com/in/kalil-j-fakhouri-1744b321a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-
-  ![snake gif](https://github.com/kak4k0ur1/kak4k0ur1/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
               
-
+![snake gif](https://raw.githubusercontent.com/kak4k0ur1/kak4k0ur1/output/github-contribution-grid-snake.svg)
 
