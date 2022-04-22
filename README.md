@@ -15,9 +15,9 @@
 
 ---
 
-##Languages and Technologies I most use
+## Languages and Technologies I most use
 
-##
+---
 <div align="center"><br>
   <img align="center" alt="kaka-Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
   <img align="center" alt="kaka-Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
