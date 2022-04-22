@@ -12,9 +12,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kak4k0ur1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kak4k0ur1&layout=compact&langs_count=16&theme=dark"/>
 </div>
-##
 
-## Languages and Technologies I most use
+---
+
+##Languages and Technologies I most use
 
 ##
 <div align="center"><br>
