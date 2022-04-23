@@ -1,16 +1,16 @@
 
 # Hello There! 👋
 
-![Visitas em meu perfil](https://komarev.com/ghpvc/?username=kak4k0ur1&color=ff0000&label=Welcome+to+my+profile+you+are+visitor+nº:)
+![Visitas em meu perfil](https://komarev.com/ghpvc/?username=kaka-jaques&color=ff0000&label=Welcome+to+my+profile+you+are+visitor+nº:)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=30&duration=5500&color=1FA2F7&background=FFFFFF00&vCenter=true&width=500&lines=Welcome+to+my+Profile!%F0%9F%96%96;I'm+Kalil+J.+Fakhouri%2C+21y!;learning+yet%2C+feel+free+here!%F0%9F%98%84)](https://git.io/typing-svg)
 
 
 <div align="center">
-  <a href="https://github.com/kak4k0ur1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kak4k0ur1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kak4k0ur1&layout=compact&langs_count=16&theme=dark"/>
+  <a href="https://github.com/kaka-jaques">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaka-jaques&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaka-jaques&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 ---
@@ -39,5 +39,5 @@
 <a href="https://www.linkedin.com/in/kalil-j-fakhouri-1744b321a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
               
-![snake gif](https://raw.githubusercontent.com/kak4k0ur1/kak4k0ur1/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/kaka-jaques/kaka-jaques/output/github-contribution-grid-snake.svg)
 
