@@ -1,5 +1,5 @@
 
-# Hello There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+# <img src="https://github.com/kaka-jaques/kaka-jaques/blob/main/img/giphy.gif?raw=true" align=center width="90px"> **There!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" align=center width="50px">
 
 ![Visitas em meu perfil](https://komarev.com/ghpvc/?username=kaka-jaques&color=ff0000&label=Welcome+to+my+profile+you+are+visitor+nº:)
 
@@ -7,17 +7,28 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script+Swash+Caps&size=30&duration=5500&color=1FA2F7&background=FFFFFF00&vCenter=true&width=500&lines=Welcome+to+my+Profile!%F0%9F%96%96;I'm+Kalil+J.+Fakhouri%2C+21y!;learning+yet%2C+feel+free+here!%F0%9F%98%84)](https://git.io/typing-svg)
 
 
-<div align="center">
   <a href="https://github.com/kaka-jaques">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaka-jaques&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaka-jaques&layout=compact&langs_count=16&theme=dark"/>
-</div>
-
-<a href="https://www.buymeacoffee.com/kak4k0ur1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+  <img height="144.5em" src="https://github-readme-stats.vercel.app/api?username=kaka-jaques&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="144.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaka-jaques&layout=compact&langs_count=16&theme=dark"/>
 
 ---
 
-## Languages and Technologies I most use
+<div align=center>
+
+## 
+
+
+
+---
+
+## 🏆 **_Github Achievements_**
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kaka-jaques&theme=gruvbox&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github.com/kaka-jaques)
+
+---
+
+## 🤖 **_Stacks and Technologies I most use_**
+</div>
 
 <div align="center"><br>
   <img align="center" alt="kaka-Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
@@ -33,13 +44,35 @@
   <img align="center" alt="kaka-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 </div>
 
+#
+
+| Sector | Stacks & Technologies                                                     |
+|--------|---------------------------------------------------------------------------|
+| **_Backend_** | ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java&logoColor=orange) ![C#](https://img.shields.io/badge/-C%23-black?style=flat&logo=C+sharp&logoColor=white)  |
+| **_Frontend_** | ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=1572B6) ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown) |
+| **_Mobile_** | ![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=Android&logoColor=green) |
+| **_IDEs_**   | ![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat&logo=eclipse-ide&logoColor=purple) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=flat&logo=Android+Studio&logoColor=green) ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=flat&logo=visual-studio&logoColor=purple) ![Intelij](https://img.shields.io/badge/-Intelij-black?style=flat&logo=Jetbrains&logoColor=white) |
+| **_Version_**  | ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)  ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) |
+
+---
 
 ##
 <div align="center">
+
+## 🌎 **_Social_**
+
 <a href="https://www.instagram.com/kalil.jar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:kjfakhouri@gmail.com"><img src="https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kjfakhouri@gmail.com" target="_blank"></a>
 <a href="https://www.linkedin.com/in/kalil-j-fakhouri-1744b321a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 </div>
               
 ![snake gif](https://raw.githubusercontent.com/kaka-jaques/kaka-jaques/output/github-contribution-grid-snake.svg)
 
+
+
+#### **_Buy Me a Coffee to support me! ❤_**
+
+<a href="https://www.buymeacoffee.com/kak4k0ur1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="buy_coffee" width="150"></a>
+
+<a> <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"></a>
