@@ -62,8 +62,9 @@
 ## 🌎 **_Social_**
 
 <a href="https://www.instagram.com/kalil.jar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:kjfakhouri@gmail.com"><img src="https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kjfakhouri@gmail.com" target="_blank"></a>
-<a href="https://www.linkedin.com/in/kalil-j-fakhouri-1744b321a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:kjfakhouri@gmail.com"><img src="https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kjfakhouri@gmail.com"></a>
+<a href="https://www.linkedin.com/in/kalil-j-fakhouri-1744b321a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.facebook.com/kalil.j.fakhouri.7" target="_blank"><img src="https://img.shields.io/badge/-facebook-%230077B5?style=for-the-badge&logo=Facebook&logoColor=white"></a> 
 
 </div>
               
@@ -76,3 +77,5 @@
 <a href="https://www.buymeacoffee.com/kak4k0ur1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="buy_coffee" width="150"></a>
 
 <a> <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"></a>
+
+
