@@ -1,9 +1,6 @@
 
 # <img src="https://github.com/kaka-jaques/kaka-jaques/blob/main/img/giphy.gif?raw=true" align=center width="90px"> **There!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" align=center width="50px">
 
-![Visitas em meu perfil](https://komarev.com/ghpvc/?username=kaka-jaques&color=ff0000&label=Welcome+to+my+profile+you+are+visitor+nº:)
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script+Swash+Caps&size=30&duration=5500&color=1FA2F7&background=FFFFFF00&vCenter=true&width=500&lines=Welcome+to+my+Profile!%F0%9F%96%96;I'm+Kalil+J.+Fakhouri%2C+21y!;learning+yet%2C+feel+free+here!%F0%9F%98%84)](https://git.io/typing-svg)
 
 
@@ -66,7 +63,7 @@
 <a href="https://www.linkedin.com/in/kalil-j-fakhouri-1744b321a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.facebook.com/kalil.j.fakhouri.7" target="_blank"><img src="https://img.shields.io/badge/-facebook-%230077B5?style=for-the-badge&logo=Facebook&logoColor=white"></a> 
 
-</div>
+
               
 ![snake gif](https://raw.githubusercontent.com/kaka-jaques/kaka-jaques/output/github-contribution-grid-snake.svg)
 
@@ -75,6 +72,10 @@
 #### **_Buy Me a Coffee to support me! ❤_**
 
 <a href="https://www.buymeacoffee.com/kak4k0ur1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="buy_coffee" width="150"></a>
+
+![Visitas em meu perfil](https://komarev.com/ghpvc/?username=kaka-jaques&color=00ccff&label=Visitor+Nº:&style=flat-square)
+
+</div>
 
 <a target="_blank"> <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"></a>
 
