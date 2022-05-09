@@ -49,7 +49,7 @@
 ##
 <div align="center">
 
-## 🌎 **_Social_**
+## 🌎 **_Social_** 🌎
 
 <a href="https://www.instagram.com/kalil.jar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "mailto:kjfakhouri@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kjfakhouri@gmail.com"></a>
