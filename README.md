@@ -3,6 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script+Swash+Caps&size=30&duration=5500&color=1FA2F7&background=FFFFFF00&vCenter=true&width=500&lines=Welcome+to+my+Profile!%F0%9F%96%96;I'm+Kalil+J.+Fakhouri%2C+21y!;learning+yet%2C+feel+free+here!%F0%9F%98%84)](https://git.io/typing-svg)
 
+<div align=center>
 
   <a href="https://github.com/kaka-jaques">
   <img height="144.5em" src="https://github-readme-stats.vercel.app/api?username=kaka-jaques&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -10,21 +11,13 @@
 
 ---
 
-<div align=center>
-
-## 
-
-
-
----
-
-## 🏆 **_Github Achievements_**
+## 🏆 **_Github Achievements_** 🏆
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kaka-jaques&theme=gruvbox&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github.com/kaka-jaques)
 
 ---
 
-## 🤖 **_Stacks and Technologies I most use_**
+## 🤖 **_Stacks and Technologies I most use_** 🤖
 </div>
 
 <div align="center"><br>
@@ -69,7 +62,7 @@
 
 
 
-## **_Buy Me a Coffee to support me!_** <img src="">
+## <img src="https://github.com/kaka-jaques/kaka-jaques/blob/main/img/nyancat.gif?raw=true" align=center width="100px">  **_Buy Me a Coffee to support me!_** <img src="https://github.com/kaka-jaques/kaka-jaques/blob/main/img/nyancat.gif?raw=true" align=center width="100px">
 
 <a href="https://www.buymeacoffee.com/kak4k0ur1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="buy_coffee" width="150"></a>
 
