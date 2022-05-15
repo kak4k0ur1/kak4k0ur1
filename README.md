@@ -47,6 +47,7 @@
 | **_IDEs_**   | ![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat&logo=eclipse-ide&logoColor=purple) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=flat&logo=Android+Studio&logoColor=green) ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=flat&logo=visual-studio&logoColor=purple) ![Intelij](https://img.shields.io/badge/-Intelij-black?style=flat&logo=Jetbrains&logoColor=white) |
 | **_Version_**  | ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)  ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) |
 | **_Video & Image Edition_** | ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-black?style=flat&logo=adobe-after-effects) ![Adobe Premiere](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-black?style=flat&logo=adobe-premiere-pro) ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-black?style=flat&logo=adobe-illustrator) ![Camtasia](https://img.shields.io/badge/-TechSmith%20Camtasia-black?style=flat&logo=techsmith-camtasia) ![Sony Vegas Pro](https://img.shields.io/badge/-Sony%20Vegas%20Pro-black?style=flat&logo=vegas-pro) |
+| **_SO_** | ![Windows](https://img.shields.io/badge/-Microsoft%20Windows-black?style=flat&logo=windows&logoColor=cyan) ![pfSense](https://img.shields.io/badge/-Firewall%20pfSense-black?style=flat&logo=pfsense&logoColor=blue)
 
 ---
 
