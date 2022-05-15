@@ -24,8 +24,11 @@
   <img align="center" alt="kaka-Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
   <img align="center" alt="kaka-Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
   <img align="center" alt="kaka-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align=center alt=kaka-github height=30 width=40 src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg>
+  <img align="center" alt="kaka-git" height=30 width=40 src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg>
   <img align="center" alt="kaka-bat" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/msdos/msdos-original.svg">
   <img align="center" alt="kaka-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
+  <img align=center alt=kaka-vscode height=30 width=40 src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg>
   <img align="center" alt="kaka-Xamarin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xamarin/xamarin-original.svg">
   <img align="center" alt="kaka-AfterEffects" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg">
   <img align="center" alt="kaka-PremierePro" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg">
@@ -43,6 +46,7 @@
 | **_Mobile_** | ![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=Android&logoColor=green) |
 | **_IDEs_**   | ![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat&logo=eclipse-ide&logoColor=purple) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=flat&logo=Android+Studio&logoColor=green) ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=flat&logo=visual-studio&logoColor=purple) ![Intelij](https://img.shields.io/badge/-Intelij-black?style=flat&logo=Jetbrains&logoColor=white) |
 | **_Version_**  | ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)  ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) |
+| **_Video & Image Edition_** | ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-black?style=flat&logo=adobe-after-effects) ![Adobe Premiere](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-black?style=flat&logo=adobe-premiere-pro) ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-black?style=flat&logo=adobe-illustrator) ![Camtasia](https://img.shields.io/badge/-TechSmith%20Camtasia-black?style=flat&logo=techsmith-camtasia) ![Sony Vegas Pro](https://img.shields.io/badge/-Sony%20Vegas%20Pro-black?style=flat&logo=vegas-pro) |
 
 ---
 
