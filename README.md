@@ -21,21 +21,25 @@
 </div>
 
 <div align="center"><br>
-  <img align="center" alt="kaka-Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
-  <img align="center" alt="kaka-Windows" height="30" width="33" src="./img\pfsense.png">
-  <img align="center" alt="kaka-Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
-  <img align="center" alt="kaka-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="kaka-Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"/>
+  <img align="center" alt="kaka-Windows" height="30" width="33" src="./img\pfsense.png"/>
+  <img align="center" alt="kaka-Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"/>
+  <img align="center" alt="kaka-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
   <img align=center alt=kaka-github height=30 width=40 src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg>
-  <img align="center" alt="kaka-git" height=30 width=40 src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg>
-  <img align="center" alt="kaka-bat" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/msdos/msdos-original.svg">
-  <img align="center" alt="kaka-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
-  <img align=center alt=kaka-vscode height=30 width=40 src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg>
-  <img align="center" alt="kaka-Xamarin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xamarin/xamarin-original.svg">
-  <img align="center" alt="kaka-AfterEffects" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg">
-  <img align="center" alt="kaka-PremierePro" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg">
-  <img align="center" alt="kaka-Illustrator" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg">
+  <img align="center" alt="kaka-git" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" />
+  <img align="center" alt="kaka-js" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="kaka-ts" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg"/>
   <img align="center" alt="kaka-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="kaka-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="center" alt="kaka-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
+  <img align=center alt=kaka-vscode height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="kaka-AfterEffects" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg"/>
+  <img align="center" alt="kaka-PremierePro" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg"/>
+  <img align="center" alt="kaka-Illustrator" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg"/>
+  <img align="center" alt="kaka-Camtasia" height="30" width="35" src="./img/camtasia.png"/>
+  <img align="center" alt="kaka-VegasPro" height="30" width="35" src="./img/vegas_pro.png"/>
+  <img align="center" alt="kaka-bat" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/msdos/msdos-original.svg"/>
+  <img align="center" alt="kaka-Xamarin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xamarin/xamarin-original.svg"/>
 </div>
 
 #
@@ -48,7 +52,7 @@
 | **_IDEs_**   | ![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat&logo=eclipse-ide&logoColor=purple) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=flat&logo=Android+Studio&logoColor=green) ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=flat&logo=visual-studio&logoColor=purple) ![Intelij](https://img.shields.io/badge/-Intelij-black?style=flat&logo=Jetbrains&logoColor=white) |
 | **_Version_**  | ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)  ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) |
 | **_Video & Image Edition_** | ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-black?style=flat&logo=adobe-after-effects) ![Adobe Premiere](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-black?style=flat&logo=adobe-premiere-pro) ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-black?style=flat&logo=adobe-illustrator) ![Camtasia](https://img.shields.io/badge/-TechSmith%20Camtasia-black?style=flat&logo=techsmith-camtasia) ![Sony Vegas Pro](https://img.shields.io/badge/-Sony%20Vegas%20Pro-black?style=flat&logo=vegas-pro) |
-| **_SO_** | ![Windows](https://img.shields.io/badge/-Microsoft%20Windows-black?style=flat&logo=windows&logoColor=cyan) ![pfSense](https://img.shields.io/badge/-Firewall%20pfSense-black?style=flat&logo=pfsense&logoColor=blue)
+| **_SO_** | ![Windows](https://img.shields.io/badge/-Microsoft%20Windows-black?style=flat&logo=windows&logoColor=cyan) ![pfSense](https://img.shields.io/badge/-Firewall%20pfSense-black?style=flat&logo=pfsense&logoColor=blue) ![Debian](https://img.shields.io/badge/-Linux%20Debian-black?style=flat&logo=debian&logoColor=red) |
 
 ---
 
