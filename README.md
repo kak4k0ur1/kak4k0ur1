@@ -66,7 +66,7 @@
 
 
 
-## <img src="https://github.com/kaka-jaques/kaka-jaques/blob/main/img/nyancat.gif?raw=true" align=center width="100px">  **_Buy Me a Coffee to support me!_** <img src="https://github.com/kaka-jaques/kaka-jaques/blob/main/img/nyancat.gif?raw=true" align=center width="100px">
+## <img src="./img/nyancat.gif" align=center width="100px">  **_Buy Me a Coffee to support me!_** <img src="./img/nyancat.gif" align=center width="100px">
 
 <a href="https://www.buymeacoffee.com/kak4k0ur1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="buy_coffee" width="150"></a>
 
@@ -74,6 +74,6 @@
 
 </div>
 
-<a target="_blank"> <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"></a>
+<a href="https://github.com/kaka-jaques"> <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"></a>
 
 
