@@ -9,6 +9,10 @@
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=kaka-jaques&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaka-jaques&layout=compact&langs_count=16&theme=dark"/>
 
+<div align=left>
+  <img align height="157em" src="https://github-readme-streak-stats.herokuapp.com/?user=kaka-jaques&hide_border=true&theme=dark" />
+</div>
+
 ---
 
 ## 🏆 **_Github Achievements_** 🏆
@@ -73,8 +77,8 @@
 <a href="https://www.linkedin.com/in/kalil-j-fakhouri-1744b321a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.facebook.com/kalil.j.fakhouri.7" target="_blank"><img src="https://img.shields.io/badge/-facebook-%230077B5?style=for-the-badge&logo=Facebook&logoColor=white"></a> 
 
+#
 
-              
 ![snake gif](https://raw.githubusercontent.com/kaka-jaques/kaka-jaques/output/github-contribution-grid-snake.svg)
 
 
@@ -86,7 +90,3 @@
 ![Visitas em meu perfil](https://komarev.com/ghpvc/?username=kaka-jaques&color=00ccff&label=Visitor+Nº:&style=flat-square)
 
 </div>
-
-<a href="https://github.com/kaka-jaques"> <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"></a>
-
-
