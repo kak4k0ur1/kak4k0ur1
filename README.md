@@ -19,7 +19,7 @@
 
 ---
 
-## 🤖 **_- Stacks and Technologies I most use -_** 🤖
+## <img align="center" width="40px" src="https://github.com/kaka-jaques/Minecraft-animated-icons/blob/main/Animated_Items/Redstone_Dropped.gif?raw=true"> **_- Stacks and Technologies I most use -_** <img align="center" width="40px" src="https://github.com/kaka-jaques/Minecraft-animated-icons/blob/main/Animated_Items/Redstone_Dropped.gif?raw=true">
 </div>
 
 <div align="center"><br>
