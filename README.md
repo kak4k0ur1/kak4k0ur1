@@ -1,5 +1,5 @@
 
-# <img src="https://github.com/kaka-jaques/kaka-jaques/blob/main/img/giphy.gif?raw=true" align=center width="90px"> **There!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" align=center width="50px">
+# <img align=center width="90px" src="https://github.com/kaka-jaques/kaka-jaques/blob/main/img/giphy.gif?raw=true" > **There!** <img align=center width="45px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script+Swash+Caps&size=30&duration=5500&color=1FA2F7&background=FFFFFF00&vCenter=true&width=500&lines=Welcome+to+my+Profile!%F0%9F%96%96;I'm+Kalil+J.+Fakhouri%2C+21y!;learning+yet%2C+feel+free+here!%F0%9F%98%84)](https://git.io/typing-svg)
 
@@ -84,5 +84,7 @@
 <a href="https://www.buymeacoffee.com/kak4k0ur1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="buy_coffee" width="150"></a>
 
 ![Visitas em meu perfil](https://komarev.com/ghpvc/?username=kaka-jaques&color=00ccff&label=Visitor+Nº:&style=flat-square)
+
+<img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" align=center>
 
 </div>
