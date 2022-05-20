@@ -49,7 +49,7 @@
   <img align="center" alt="kaka-lego" height="30" width="33" src="./img/lego.png" />
 </div>
 
-#
+---
 
 | Sector | Stacks & Technologies                                                     |
 |--------|---------------------------------------------------------------------------|
@@ -65,7 +65,6 @@
 
 ---
 
-##
 <div align="center">
 
 ## <img align="center" width="35px" src="https://github.com/kaka-jaques/Minecraft-animated-icons/blob/main/Animated_Items/Compass_Recovery.gif?raw=true"> **_---- Social ----_** <img align="center" width="35px" src="https://github.com/kaka-jaques/Minecraft-animated-icons/blob/main/Animated_Items/Compass_Recovery.gif?raw=true">
@@ -75,7 +74,6 @@
 <a href="https://www.linkedin.com/in/kalil-j-fakhouri-1744b321a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.facebook.com/kalil.j.fakhouri.7" target="_blank"><img src="https://img.shields.io/badge/-facebook-%230077B5?style=for-the-badge&logo=Facebook&logoColor=white"></a> 
 
-#
 
 ![snake gif](https://raw.githubusercontent.com/kaka-jaques/kaka-jaques/output/github-contribution-grid-snake.svg)
 
