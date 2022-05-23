@@ -2,12 +2,28 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script+Swash+Caps&size=30&duration=5500&color=1FA2F7&background=FFFFFF00&vCenter=true&width=500&lines=Welcome+to+my+Profile!%F0%9F%96%96;I'm+Kalil+J.+Fakhouri%2C+21y!;learning+yet%2C+feel+free+here!%F0%9F%98%84)](https://git.io/typing-svg)
 
+---
+
 <div align=center>
+
+
 
   <a href="https://github.com/kaka-jaques">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=kaka-jaques&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaka-jaques&layout=compact&langs_count=16&theme=dark"/>
-  <img align height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=kaka-jaques&hide_border=true&theme=dark" />
+  <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=kaka-jaques&hide_border=true&theme=dark" />
+
+<div align=left>
+<details><summary><b><i>More Stats</i></b></summary>
+  <details><summary><b> Coding Activity </b></summary>
+    <figure><embed src="https://wakatime.com/share/@2d0b2a1c-4405-4cfc-9237-df5f899c87db/0aa7b824-6baa-4538-b797-f4ae66fadd3f.svg"></embed></figure>
+  </details>
+
+  <details><summary><b> Coding Activity </b></summary>
+  
+  </details>
+</details>
+</div>
 
 ---
 
@@ -73,14 +89,12 @@
 
 ---
 
-## **_My Setup_**
-
 <div align=left>
 
-```
-
+## 🚀 **_My Setup_** 🚀
+```yml
 - Name: KADIR (قادر)
-- CPU: AMD Ryzen 5 3600 6-Cores 12-Threads @4.2Ghz
+- CPU: AMD Ryzen 5 3600 6-Cores 12-Threads @4.20Ghz
 - RAM: 32GB (4x8GB) XPG Spectrix D41 @3200Mhz
 - GPU: ASUS Cerberus GeForce GTX 1050 OC Edition
 - PSU: NOX 600W 80Plus Bornze Semi-Modular
