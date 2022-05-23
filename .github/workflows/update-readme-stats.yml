@@ -1,9 +1,11 @@
 name: Update README Stats
 
 on:
+  push:
+    branches: [ master ]
   schedule:
-    - cron: '0 0 * * *'
-
+    - cron: '30 5 * * *' 
+    
 jobs:
   update-Readme:
     name: Automatically update my README  
