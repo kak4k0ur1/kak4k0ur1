@@ -11,13 +11,9 @@
 
 ---
 
-## 🏆 **_-- Github Achievements --_** 🏆
+<div><br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kaka-jaques&theme=gruvbox&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github.com/kaka-jaques)
-
----
-
-## <img align="center" width="40px" src="https://github.com/kaka-jaques/Minecraft-animated-icons/blob/main/Animated_Items/Redstone_Dropped.gif?raw=true"> **_- Stacks and Technologies I most use -_** <img align="center" width="40px" src="https://github.com/kaka-jaques/Minecraft-animated-icons/blob/main/Animated_Items/Redstone_Dropped.gif?raw=true">
+## <img align="center" width="40px" src="https://github.com/kaka-jaques/Minecraft-animated-icons/blob/main/Animated_Items/Redstone_Dropped.gif?raw=true"> **_Stacks and Technologies I most use_** <img align="center" width="40px" src="https://github.com/kaka-jaques/Minecraft-animated-icons/blob/main/Animated_Items/Redstone_Dropped.gif?raw=true">
 
   <img align="center" alt="kaka-Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"/>
   <img align="center" alt="kaka-Windows" height="30" width="33" src="./img\pfsense.png"/>
@@ -43,13 +39,12 @@
   <img align="center" alt="kaka-arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original.svg" />
   <img align="center" alt="kaka-Xamarin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xamarin/xamarin-original.svg"/>
   <img align="center" alt="kaka-lego" height="30" width="33" src="./img/lego.png" />
+</div></b>
 
 ---
 
-<div class=stacks><br>
-
-| Sector | Stacks & Technologies                                                     |
-|--------|---------------------------------------------------------------------------|
+| Sector | Stacks & Technologies |
+|--------|-----------------------|
 | <img align="center" width="25px" src="https://github.com/kaka-jaques/Minecraft-animated-icons/blob/main/Animated_Items/Grass_Block_Dropped.gif?raw=true"> **_Backend_** | ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java&logoColor=orange) ![C#](https://img.shields.io/badge/-C%23-black?style=flat&logo=C+sharp&logoColor=white) ![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus)  |
 | <img align="center" width="25px" src="https://github.com/kaka-jaques/Minecraft-animated-icons/blob/main/Animated_Items/Glowstone_Dropped.gif?raw=true"> **_Frontend_** | ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=1572B6) ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown) ![Javascript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript) ![Angular](https://img.shields.io/badge/-Angular-black?style=flat&logo=angular&logoColor=red) |
 | <img align="center" width="30px" src="https://github.com/kaka-jaques/Minecraft-animated-icons/blob/main/Mobs_Animated/MiniZombie_Chicken.gif?raw=true"> **_Mobile_** | ![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=Android&logoColor=green) |
@@ -59,20 +54,49 @@
 | <img align="center" width="25px" src="https://github.com/kaka-jaques/Minecraft-animated-icons/blob/main/Animated_Items/Fire_Sticker_Blue.gif?raw=true"> **_Video & Image Edition_** | ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-black?style=flat&logo=adobe-after-effects) ![Adobe Premiere](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-black?style=flat&logo=adobe-premiere-pro) ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-black?style=flat&logo=adobe-illustrator) ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-black?style=flat&logo=adobe-photoshop) ![Camtasia](https://img.shields.io/badge/-TechSmith%20Camtasia-black?style=flat&logo=techsmith-camtasia) ![Sony Vegas Pro](https://img.shields.io/badge/-Sony%20Vegas%20Pro-black?style=flat&logo=vegas-pro) |
 | <img align="center" width="25px" src="https://github.com/kaka-jaques/Minecraft-animated-icons/blob/main/Animated_Items/Fire_2.gif?raw=true"> **_SO_** | ![Windows](https://img.shields.io/badge/-Microsoft%20Windows-black?style=flat&logo=windows&logoColor=cyan) ![Windows Server](https://img.shields.io/badge/-Windows%20Server-black?style=flat&logo=windows&logoColor=cyan) ![pfSense](https://img.shields.io/badge/-Firewall%20pfSense-black?style=flat&logo=pfsense&logoColor=blue) ![Debian](https://img.shields.io/badge/-Linux%20Debian-black?style=flat&logo=debian&logoColor=red) |
 | <img align="center" width="25px" src="https://github.com/kaka-jaques/Minecraft-animated-icons/blob/main/Animated_Items/Enchanting_Table.gif?raw=true"> **_Learning_** | ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java&logoColor=orange) ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=1572B6) ![Javascript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript) ![Angular](https://img.shields.io/badge/-Angular-black?style=flat&logo=angular&logoColor=red) ![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=Android&logoColor=green) ![MySql](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql) ![PHPMyAdmin](https://img.shields.io/badge/-PHPMyAdmin-black?style=flat&logo=phpmyadmin) ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-black?style=flat&logo=adobe-after-effects) ![Adobe Premiere](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-black?style=flat&logo=adobe-premiere-pro) ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-black?style=flat&logo=adobe-illustrator) ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-black?style=flat&logo=adobe-photoshop) ![pfSense](https://img.shields.io/badge/-Firewall%20pfSense-black?style=flat&logo=pfsense&logoColor=blue) ![Windows Server](https://img.shields.io/badge/-Windows%20Server-black?style=flat&logo=windows&logoColor=cyan) |
-</div></br>
 
 ---
 
-## <img align="center" width="35px" src="https://github.com/kaka-jaques/Minecraft-animated-icons/blob/main/Animated_Items/Compass_Recovery.gif?raw=true"> **_---- Social ----_** <img align="center" width="35px" src="https://github.com/kaka-jaques/Minecraft-animated-icons/blob/main/Animated_Items/Compass_Recovery.gif?raw=true">
+## 🏆 **_Github Achievements_** 🏆
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kaka-jaques&theme=gruvbox&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github.com/kaka-jaques)
+
+---
+
+## <img align="center" width="35px" src="https://github.com/kaka-jaques/Minecraft-animated-icons/blob/main/Animated_Items/Compass_Recovery.gif?raw=true"> **_Social_** <img align="center" width="35px" src="https://github.com/kaka-jaques/Minecraft-animated-icons/blob/main/Animated_Items/Compass_Recovery.gif?raw=true">
 
 <a href="https://www.instagram.com/kalil.jar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "mailto:kjfakhouri@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kjfakhouri@gmail.com"></a>
+<a href = "https://www.youtube.com/channel/UC-ip_rErotjXgDnTnvajkog" target="_blank"><img src="https://img.shields.io/badge/-youtube-c14438?style=for-the-badge&logo=Youtube&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/kalil-j-fakhouri-1744b321a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.facebook.com/kalil.j.fakhouri.7" target="_blank"><img src="https://img.shields.io/badge/-facebook-%230077B5?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 
+---
+
+## **_My Setup_**
+
+<div align=left>
+
+```
+
+- Name: KADIR (قادر)
+- CPU: AMD Ryzen 5 3600 6-Cores 12-Threads @4.2Ghz
+- RAM: 32GB (4x8GB) XPG Spectrix D41 @3200Mhz
+- GPU: ASUS Cerberus GeForce GTX 1050 OC Edition
+- PSU: NOX 600W 80Plus Bornze Semi-Modular
+- Mobo: AORUS B450 Pro WiFi ATX
+- Storage: 240GB SSD RiseMode / 2TB Hd WD Blue
+- Display: Concórdia RF66 24" 1080p @144Hz
+
+```
+
+</div>
+
+---
+
 ![snake gif](https://raw.githubusercontent.com/kaka-jaques/kaka-jaques/output/github-contribution-grid-snake.svg)
 
-## <img src="./img/nyancat.gif" align=center width="100px">  **_Buy Me a Coffee to support me!_** <img src="./img/nyancat.gif" align=center width="100px">
+## <img src="./img/nyancat.gif" align=center width="100px">  **_BUY ME A COFFEE TO SUPPORT ME!_** <img src="./img/nyancat.gif" align=center width="100px">
 
 <a href="https://www.buymeacoffee.com/kak4k0ur1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="buy_coffee" width="150"></a>
 
