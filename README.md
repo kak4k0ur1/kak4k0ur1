@@ -89,7 +89,7 @@
 
 <div align=left>
 
-## 🚀 **_My Setup_** 🚀
+### 🚀 **_My Setup_** 🚀
 ```yml
 - Name: KADIR (قادر)
 - CPU: AMD Ryzen 5 3600 6-Cores 12-Threads @4.20Ghz
