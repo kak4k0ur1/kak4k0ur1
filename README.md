@@ -14,7 +14,9 @@
 <div align=left>
 
 <details><summary><b><i>More Stats</i></b></summary>
-    <img src=https://wakatime.com/badge/user/2d0b2a1c-4405-4cfc-9237-df5f899c87db.svg><h6><i>Count starts 23/05/20</i></h6>
+
+###### <img src=https://wakatime.com/badge/user/2d0b2a1c-4405-4cfc-9237-df5f899c87db.svg> _Count starts 23/05/2022_
+
 </details>
 
 </div>
