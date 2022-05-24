@@ -12,9 +12,11 @@
   <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=kaka-jaques&hide_border=true&theme=dark" />
 
 <div align=left>
+
 <details><summary><b><i>More Stats</i></b></summary>
     <img src=https://wakatime.com/badge/user/2d0b2a1c-4405-4cfc-9237-df5f899c87db.svg><h6><i>Count starts 23/05/20</i></h6>
 </details>
+
 </div>
 
 ---
