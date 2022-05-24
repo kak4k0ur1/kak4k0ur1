@@ -93,9 +93,9 @@
 - CPU: AMD Ryzen 5 3600 6-Cores 12-Threads @4.20Ghz
 - RAM: 32GB (4x8GB) XPG Spectrix D41 @3200Mhz
 - GPU: ASUS Cerberus GeForce GTX 1050 OC Edition
-- PSU: NOX 600W 80Plus Bornze Semi-Modular
+- PSU: NOX 600W 80Plus Bronze Semi-Modular
 - Mobo: AORUS B450 Pro WiFi ATX
-- Storage: 240GB SSD RiseMode / 2TB Hd WD Blue
+- Storage: 240GB SSD RiseMode / 2TB HD WD Blue
 - Display: Concórdia RF66 24" 1080p @144Hz
 
 ```
