@@ -11,14 +11,15 @@
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaka-jaques&layout=compact&langs_count=16&theme=dark"/>
   <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=kaka-jaques&hide_border=true&theme=dark" />
 
+
+
 <div align=left>
 <details><summary><b><i>More Stats</i></b></summary>
-  <details><summary><b> Coding Activity </b></summary>
-    <embed src="https://wakatime.com/share/@2d0b2a1c-4405-4cfc-9237-df5f899c87db/0aa7b824-6baa-4538-b797-f4ae66fadd3f.svg"></embed>
+  <details><summary><b> Total code Badge </b></summary>
+    <img src=https://wakatime.com/badge/user/2d0b2a1c-4405-4cfc-9237-df5f899c87db.svg>
   </details>
-
   <details><summary><b> Coding Activity </b></summary>
-  
+    
   </details>
 </details>
 </div>
