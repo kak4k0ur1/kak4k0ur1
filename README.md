@@ -13,7 +13,7 @@
 
 <div align=left>
 
-<details> <summary> More Stats </summary>
+<details>
 
 ###### <img src=https://wakatime.com/badge/user/2d0b2a1c-4405-4cfc-9237-df5f899c87db.svg> _Count starts 23/05/2022_
 
