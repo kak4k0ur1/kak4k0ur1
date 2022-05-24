@@ -15,12 +15,7 @@
 
 <div align=left>
 <details><summary><b><i>More Stats</i></b></summary>
-  <details><summary><b> Total code Badge </b></summary>
     <img src=https://wakatime.com/badge/user/2d0b2a1c-4405-4cfc-9237-df5f899c87db.svg>
-  </details>
-  <details><summary><b> Coding Activity </b></summary>
-    
-  </details>
 </details>
 </div>
 
