@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script+Swash+Caps&size=30&duration=5500&color=1FA2F7&background=FFFFFF00&vCenter=true&width=500&lines=Welcome+to+my+Profile!%F0%9F%96%96;I'm+Kalil+J.+Fakhouri%2C+21y!;learning+yet%2C+feel+free+here!%F0%9F%98%84)](https://git.io/typing-svg)
 
----
-
 <div align=center>
+
+---
 
   <a href="https://github.com/kaka-jaques">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=kaka-jaques&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -20,6 +20,16 @@
 </details>
 
 </div>
+
+---
+
+## <img align="center" width="35px" src="https://github.com/kaka-jaques/Minecraft-animated-icons/blob/main/Animated_Items/Compass_Recovery.gif?raw=true"> **_Social_** <img align="center" width="35px" src="https://github.com/kaka-jaques/Minecraft-animated-icons/blob/main/Animated_Items/Compass_Recovery.gif?raw=true">
+
+<a href="https://www.instagram.com/kalil.jar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href = "mailto:kjfakhouri@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kjfakhouri@gmail.com"></a>
+<a href = "https://www.youtube.com/channel/UC-ip_rErotjXgDnTnvajkog" target="_blank"><img src="https://img.shields.io/badge/-youtube-c14438?style=for-the-badge&logo=Youtube&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/kalil-j-fakhouri-1744b321a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.facebook.com/kalil.j.fakhouri.7" target="_blank"><img src="https://img.shields.io/badge/-facebook-%230077B5?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 
 ---
 
@@ -75,13 +85,7 @@
 
 ---
 
-## <img align="center" width="35px" src="https://github.com/kaka-jaques/Minecraft-animated-icons/blob/main/Animated_Items/Compass_Recovery.gif?raw=true"> **_Social_** <img align="center" width="35px" src="https://github.com/kaka-jaques/Minecraft-animated-icons/blob/main/Animated_Items/Compass_Recovery.gif?raw=true">
 
-<a href="https://www.instagram.com/kalil.jar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href = "mailto:kjfakhouri@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kjfakhouri@gmail.com"></a>
-<a href = "https://www.youtube.com/channel/UC-ip_rErotjXgDnTnvajkog" target="_blank"><img src="https://img.shields.io/badge/-youtube-c14438?style=for-the-badge&logo=Youtube&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/kalil-j-fakhouri-1744b321a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.facebook.com/kalil.j.fakhouri.7" target="_blank"><img src="https://img.shields.io/badge/-facebook-%230077B5?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 
 ---
 
