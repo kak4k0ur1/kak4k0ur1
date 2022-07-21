@@ -26,7 +26,7 @@
 ## 🌐 **_Social_** 🌐
 
 <a href="https://www.instagram.com/kalil.jar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href = "mailto:kjfakhouri@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kjfakhouri@gmail.com"></a>
+<a href = "https://mail.google.com/mail/u/0/?fs=1&to=kjfakhouri@gmail.com&su=CONTACT BY GITHUB - HELLO KALIL&body=Olá+Kalil%20J.%20Fakhouri,+Tudo+bem?&tf=cm" target="_blank"><img src="https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kjfakhouri@gmail.com"></a>
 <a href = "https://www.youtube.com/channel/UC-ip_rErotjXgDnTnvajkog" target="_blank"><img src="https://img.shields.io/badge/-youtube-c14438?style=for-the-badge&logo=Youtube&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/kalil-j-fakhouri-1744b321a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.facebook.com/kalil.j.fakhouri.7" target="_blank"><img src="https://img.shields.io/badge/-facebook-%230077B5?style=for-the-badge&logo=Facebook&logoColor=white"></a>
