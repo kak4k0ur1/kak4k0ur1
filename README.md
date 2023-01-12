@@ -11,10 +11,7 @@
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaka-jaques&layout=compact&langs_count=16&theme=dark"/>
   <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=kaka-jaques&hide_border=true&theme=dark" />
 
-<details open align="left">
-  <summary>TEMPO TOTAL DE PROGRAMAÇÃO DESDE O INICIO DO CURSO EM 23/05/2022</summary>
-    <img src=https://wakatime.com/badge/user/2d0b2a1c-4405-4cfc-9237-df5f899c87db.svg>
-</details>
+### <b><i>Programando a </i></b> <img align=center src=https://wakatime.com/badge/user/2d0b2a1c-4405-4cfc-9237-df5f899c87db.svg>
 
 ---
 
