@@ -63,15 +63,15 @@
 
 | Sector | Stacks & Technologies |
 |--------|-----------------------|
-| ☕ **_Backend_** | ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=oracle&logoColor=orange) ![C#](https://img.shields.io/badge/-C%23-black?style=flat&logo=C+sharp&logoColor=white) ![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus)  |
+| ☕ **_Backend_** | ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=oracle&logoColor=orange) ![Spring](https://img.shields.io/badge/-SpringBoot-black?style=flat&logo=spring) ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python) ![C#](https://img.shields.io/badge/-C%23-black?style=flat&logo=C+sharp&logoColor=white) ![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus)  |
 | 📺 **_Frontend_** | ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=1572B6) ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown) ![Javascript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript) ![Angular](https://img.shields.io/badge/-Angular-black?style=flat&logo=angular&logoColor=red) ![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php) ![Electron](https://img.shields.io/badge/-Electron-black?style=flat&logo=electron) ![Wordpress](https://img.shields.io/badge/-Wordpress-black?style=flat&logo=wordpress) |
 | 📱 **_Mobile_** | ![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=Android&logoColor=green) |
 | 🛠 **_IDEs_**   | ![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat&logo=eclipse-ide&logoColor=purple) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=flat&logo=Android+Studio&logoColor=green) ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=flat&logo=visual-studio&logoColor=purple) ![Intelij](https://img.shields.io/badge/-Intelij-black?style=flat&logo=Jetbrains&logoColor=white) ![Netbeans](https://img.shields.io/badge/-NetBeans-black?style=flat&logo=oracle) ![Lego](https://img.shields.io/badge/-Lego%20Mindstorms-black?style=flat&logo=alibaba-cloud) ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat&logo=Arduino) |
-| 🎲 **_Database_** | ![MySql](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql) ![PHPMyAdmin](https://img.shields.io/badge/-PHPMyAdmin-black?style=flat&logo=phpmyadmin)
+| 🎲 **_Database_** | ![MySql](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql) ![PHPMyAdmin](https://img.shields.io/badge/-PHPMyAdmin-black?style=flat&logo=phpmyadmin) ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat&logo=sqlite) ![Postgre](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)
 | 🔃 **_Version_**  | ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)  ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) |
 | 🎬 **_Video & Image Edition_** | ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-black?style=flat&logo=adobe-after-effects) ![Adobe Premiere](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-black?style=flat&logo=adobe-premiere-pro) ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-black?style=flat&logo=adobe-illustrator) ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-black?style=flat&logo=adobe-photoshop) ![Camtasia](https://img.shields.io/badge/-TechSmith%20Camtasia-black?style=flat&logo=techsmith-camtasia) ![Sony Vegas Pro](https://img.shields.io/badge/-Sony%20Vegas%20Pro-black?style=flat&logo=sony) |
 | 💻 **_SO_** | ![Windows](https://img.shields.io/badge/-Microsoft%20Windows-black?style=flat&logo=windows&logoColor=cyan) ![Windows Server](https://img.shields.io/badge/-Windows%20Server-black?style=flat&logo=windows&logoColor=cyan) ![pfSense](https://img.shields.io/badge/-Firewall%20pfSense-black?style=flat&logo=pfsense&logoColor=blue) ![Debian](https://img.shields.io/badge/-Linux%20Debian-black?style=flat&logo=debian&logoColor=red) |
-| 📖 **_Learning_** | ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-black?style=flat&logo=adobe-after-effects) ![Adobe Premiere](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-black?style=flat&logo=adobe-premiere-pro) ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-black?style=flat&logo=adobe-illustrator) ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-black?style=flat&logo=adobe-photoshop) ![pfSense](https://img.shields.io/badge/-Firewall%20pfSense-black?style=flat&logo=pfsense&logoColor=blue) ![Windows Server](https://img.shields.io/badge/-Windows%20Server-black?style=flat&logo=windows&logoColor=cyan) ![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php) ![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus) ![Wordpress](https://img.shields.io/badge/-Wordpress-black?style=flat&logo=wordpress) |
+| 📖 **_Learning_** | ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python) ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-black?style=flat&logo=adobe-after-effects) ![Adobe Premiere](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-black?style=flat&logo=adobe-premiere-pro) ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-black?style=flat&logo=adobe-illustrator) ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-black?style=flat&logo=adobe-photoshop) ![pfSense](https://img.shields.io/badge/-Firewall%20pfSense-black?style=flat&logo=pfsense&logoColor=blue) ![Windows Server](https://img.shields.io/badge/-Windows%20Server-black?style=flat&logo=windows&logoColor=cyan) ![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php) ![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus) ![Wordpress](https://img.shields.io/badge/-Wordpress-black?style=flat&logo=wordpress) |
 
 ---
 
@@ -90,13 +90,16 @@
 ### 🚀 **_My Setup_** 🚀
 ```yml
 - Name: KADIR (قادر)
-- CPU: AMD Ryzen 5 3600 6-Cores 12-Threads @4.20Ghz
+- CPU: AMD Ryzen 7 5700X 8-Cores 16-Threads @4.60Ghz
 - RAM: 32GB (4x8GB) XPG Spectrix D41 @3200Mhz
-- GPU: ASUS Cerberus GeForce GTX 1050 OC Edition
-- PSU: NOX 600W 80Plus Bronze Semi-Modular
+- GPU: Gigabyte RX 6700XT Eagle 12GB
+- PSU: C3Tech 700W PFC 80Plus White
 - Mobo: AORUS B450 Pro WiFi ATX
-- Storage: 240GB SSD RiseMode / 2TB HD WD Blue
-- Display: Concórdia RF66 24" 1080p @144Hz
+- Storage: SSD Nvme WD Green 480GB 
+           240GB SSD RiseMode  
+           2TB HD WD Blue
+- Display: Concórdia R200S 24" 1080p @165hz
+           Concórdia RF66 24" 1080p @144Hz
 
 ```
 
