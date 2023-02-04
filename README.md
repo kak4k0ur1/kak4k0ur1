@@ -92,9 +92,9 @@
 - GPU: Gigabyte RX 6700XT Eagle 12GB
 - PSU: C3Tech 700W PFC 80Plus White
 - Mobo: AORUS B450 Pro WiFi ATX
-- Storage: SSD Nvme WD Green 480GB 
-           240GB SSD RiseMode  
-           2TB HD WD Blue
+- Storage: SSD M.2 WD Green 480GB - NVMe/PCI-e 3.0
+           240GB SSD RiseMode - SATA III
+           2TB HD WD Blue - SATA III
 - Display: Concórdia R200S 24" 1080p @165hz
            Concórdia RF66 24" 1080p @144Hz
 
