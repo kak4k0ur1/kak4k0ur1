@@ -82,27 +82,21 @@
 
 <div align=left>
 
-### 🚀 **_My Setup_** 🚀
+### 🚀 **_My (Dream) Setup_** 🚀
 ```yml
 - Name: KADIR (قادر)
-- CPU: AMD Ryzen 7 5700X 8-Cores 16-Threads @4.60Ghz
-- RAM: 32GB (4x8GB) XPG Spectrix D41 @3200Mhz
-- GPU: Gigabyte RX 6700XT Eagle 12GB
-- PSU: C3Tech 700W PFC 80Plus White
-- Mobo: AORUS B450 Pro WiFi ATX
-- Storage: SSD M.2 WD Green 480GB - NVMe/PCI-e 3.0
-           240GB SSD RiseMode - SATA III
-           2TB HD WD Blue - SATA III
-- Display: Concórdia R200S 24" 1080p @165hz
-           Concórdia RF66 24" 1080p @144Hz
+- CPU: AMD Ryzen 9 9900X
+- RAM: 128GB (4x32GB)
+- GPU: RX 7900 XTX 20GB
+- PSU: 1000W 80Plus Gold Full Modular
+- Mobo: ROG Hero VI X670-E
+- Display: Samsung Odyssey G9 49"
 
 ```
 
 </div>
 
 ---
-
-![snake gif](https://raw.githubusercontent.com/kaka-jaques/kaka-jaques/output/github-contribution-grid-snake.svg)
 
 ## ☕ **_BUY ME A COFFEE TO SUPPORT ME!_** ☕
 
